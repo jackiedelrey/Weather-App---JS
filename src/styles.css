@@ -1,0 +1,70 @@
+h1 {
+  font-weight: 1400;
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+.container {
+  text-align: center;
+  margin: 0px auto;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  color: #352f44;
+  border-style: solid;
+  padding: 20px;
+}
+.overview {
+  font-size: 30px;
+  border-bottom-style: solid;
+  padding: 30px;
+}
+.weatherDays {
+  color: #5c5470;
+  font-size: 25px;
+}
+.currentTemperature {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.col {
+  background-color: #e7eaf6;
+  padding: 0px;
+  border-style: double;
+}
+
+.form {
+  font-size: 30px;
+}
+
+.currentButton {
+  display: auto block;
+  text-align: center;
+  margin: 10px;
+  background-color: buttonface;
+  color: buttontext;
+  padding: 1px 6px;
+  border-width: 1px;
+  border-style: outset;
+  border-color: buttonborder;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+li {
+  display: inline;
+}
+
+a:link {
+  text-decoration: none;
+}
